@@ -24,6 +24,6 @@ On GitHub, I share networking tools, scripts, IP address lists, projects, and pr
 * Website: [amoradi.ir](https://amoradi.ir)
 * GitHub:  [git.amoradi.ir](https://git.amoradi.ir)
 * Email:   mail@amoradi.ir
-* Chat:    [chat.amoradi.ir](https://chat.amoradi.ir)
+* Telegram:    [chat.amoradi.ir](https://chat.amoradi.ir)
 
 ---
