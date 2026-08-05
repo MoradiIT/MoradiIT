@@ -1,14 +1,12 @@
 # Hi, I'm Ali Moradi
 
-**Network Technician | Network Administrator**
-
-I work with computer networks, network infrastructure, system administration, and troubleshooting.
-
+**Network Technician | Network Administrator** <br>
+I work with computer networks, network infrastructure, system administration, and troubleshooting. <br>
 On GitHub, I share networking tools, scripts, IP address lists, projects, and practical utilities related to network administration.
 
 <br>
 
-## What I Work With
+### What I Work With
 
 * Network Administration & Troubleshooting
 * TCP/IP, DNS, DHCP & Routing
@@ -21,7 +19,7 @@ On GitHub, I share networking tools, scripts, IP address lists, projects, and pr
 <br>
 
 
-## Connect
+### Connect
 
 * Website: [amoradi.ir](https://amoradi.ir)
 * GitHub:  [git.amoradi.ir](https://git.amoradi.ir)
