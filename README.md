@@ -21,10 +21,10 @@ On GitHub, I share networking tools, scripts, IP address lists, projects, and pr
 
 ### Connect
 
-* Website: [amoradi.ir](https://amoradi.ir) | Ali Moradi IT
+* Website: [amoradi.ir](https://amoradi.ir)
 * GitHub:  [git.amoradi.ir](https://git.amoradi.ir)
 * Telegram:    [chat.amoradi.ir](https://chat.amoradi.ir)
 
 ---
 
-<sub>Ali Moradi IT | Moradi IT | AMoradi</sub>
+<sub>About: Ali Moradi IT | Moradi IT | AMoradi</sub>
