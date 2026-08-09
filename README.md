@@ -26,3 +26,5 @@ On GitHub, I share networking tools, scripts, IP address lists, projects, and pr
 * Telegram:    [chat.amoradi.ir](https://chat.amoradi.ir)
 
 ---
+
+<sub>Ali Moradi IT | Moradi IT | AMoradi</sub>
