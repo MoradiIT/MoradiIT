@@ -27,4 +27,5 @@ On GitHub, I share networking tools, scripts, IP address lists, projects, and pr
 
 ---
 
-<sub>About: Ali Moradi IT | Moradi IT | AMoradi</sub>
+<sub>Ali Moradi IT | Moradi IT | AMoradi</sub><br>
+<sub>© 2026 Ali Moradi. All rights reserved.<sub>
